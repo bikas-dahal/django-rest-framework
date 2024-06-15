@@ -3,3 +3,5 @@ djangorestframework
 pyyaml 
 requests
 django-cors-headers
+environs
+mysqlclient
